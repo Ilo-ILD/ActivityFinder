@@ -1,2 +1,3 @@
 # ActivityFinder
-Map-based app for discovering and joining real-world activities
+
+**ActivityFinder** е платформа за откриване и участие в реални активности чрез интерактивна карта.
